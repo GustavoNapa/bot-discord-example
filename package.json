@@ -1,0 +1,27 @@
+{
+  "name": "bot-discord-example",
+  "version": "1.0.0",
+  "description": "Bot de Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoNapa/bot-discord-example.git"
+  },
+  "keywords": [
+    "discord",
+    "example",
+    "bot"
+  ],
+  "author": "Gustavo Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GustavoNapa/bot-discord-example/issues"
+  },
+  "homepage": "https://github.com/GustavoNapa/bot-discord-example#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
